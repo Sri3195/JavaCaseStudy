@@ -1,4 +1,4 @@
 # JavaCaseStudy
-Books System System
-Done by Srilakshmi Bhukya
-From Axis School of Fintech -Batch 10
+Books Management System
+done by Srilakshmi Bhukya
+from Axis School of Fintech -Batch 10
