@@ -79,7 +79,7 @@ public class BookUtil {
 			System.out.println("Search completed !");
 			break;
 		case 8:
-			System.exit(0);
+			return;
 			
 		}}
 		
