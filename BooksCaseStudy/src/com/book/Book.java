@@ -17,6 +17,7 @@ public class Book {
 			}
 				catch(Exception e) {
 					System.out.println(e);
+					System.exit(0);
 				
 			
 			}
@@ -80,6 +81,7 @@ public class Book {
 			}
 			catch(InvalidBookException msg) {
 				System.out.println(msg);
+				System.exit(0);
 			}
 		
 	}
@@ -92,6 +94,7 @@ public class Book {
 			}}
 			catch(InvalidBookException msg) {
 				System.out.println(msg);
+				System.exit(0);
 			}
 	}
 	
@@ -105,6 +108,7 @@ public class Book {
 			}}
 			catch(InvalidBookException msg) {
 				System.out.println(msg);
+				System.exit(0);
 			}
 	}
 }
